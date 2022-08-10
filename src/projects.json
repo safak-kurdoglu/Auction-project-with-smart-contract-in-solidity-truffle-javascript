@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "name": "Shuttle 1",
+    "picture": "images/pj0.jpeg",
+    "address": "0x3B0bF115BF8E9e35F22380935988c36Af76dd1aD"
+  },
+  {
+    "id": 1,
+    "name": "Shuttle 2",
+    "picture": "images/pj1.jpeg",
+    "address": "0x97946005249b70b5FEd4e29c9F3F3FdF49d6eA7e"
+  },
+  {
+    "id": 2,
+    "name": "Shuttle 3",
+    "picture": "images/pj2.jpeg",
+    "address": "0xeaD85b3A95Cbca2f8D93774ea31AAD36C072521b"
+  }
+]
